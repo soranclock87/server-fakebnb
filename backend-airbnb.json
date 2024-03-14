@@ -1,0 +1,444 @@
+{
+  "apartments": [
+    {
+      "id": "1",
+      "name": "Modern Oasis in the Heart of London",
+      "description": "This stylish one-bedroom apartment is located in the heart of London, just a short walk from Oxford Street and Regent's Park. The apartment features a modern kitchen, a spacious living room, and a private balcony with views of the city. It is perfect for couples or solo travelers looking for a comfortable and convenient base to explore London.",
+      "price": 150,
+      "maxGuests": 2,
+      "location": "London, United Kingdom",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=2&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=2&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=2&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=2&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=2&image=5"
+      ],
+      "rating": 4.8,
+      "reviews": 120,
+      "host": {
+        "name": "Emily",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": false
+    },
+    {
+      "id": "2",
+      "name": "Cozy Cabin in the Woods",
+      "description": "This charming two-bedroom cabin is located in the heart of the woods, just a short drive from the nearest town. The cabin features a fully equipped kitchen, a cozy fireplace, and a private deck with views of the forest. It is perfect for families or groups of friends looking for a relaxing getaway.",
+      "price": 100,
+      "maxGuests": 4,
+      "location": "Lake Tahoe, California",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=3&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=3&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=3&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=3&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=3&image=5"
+      ],
+      "rating": 4.5,
+      "reviews": 50,
+      "host": {
+        "name": "John",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": true
+    },
+    {
+      "id": "3",
+      "name": "Beachfront Villa in Bali",
+      "description": "This luxurious three-bedroom villa is located on the beachfront in Bali, just a short walk from the beach. The villa features a private pool, a spacious living room, and a terrace with stunning views of the ocean. It is perfect for families or groups of friends looking for an unforgettable vacation.",
+      "price": 300,
+      "maxGuests": 6,
+      "location": "Bali, Indonesia",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=4&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=4&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=4&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=4&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=4&image=5"
+      ],
+      "rating": 5,
+      "reviews": 20,
+      "host": {
+        "name": "Mia",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": false
+    },
+    {
+      "id": "4",
+      "name": "Luxury Apartment in Paris",
+      "description": "This luxurious two-bedroom apartment is located in the heart of Paris, just a short walk from the Eiffel Tower and the Louvre Museum. The apartment features a modern kitchen, a spacious living room, and a private balcony with views of the city. It is perfect for couples or families looking for a comfortable and convenient base to explore Paris.",
+      "price": 250,
+      "maxGuests": 4,
+      "location": "Paris, France",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=5&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=5&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=5&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=5&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=5&image=5"
+      ],
+      "rating": 4.7,
+      "reviews": 100,
+      "host": {
+        "name": "Pierre",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": true
+    },
+    {
+      "id": "5",
+      "name": "Mountain Retreat in Colorado",
+      "description": "This cozy two-bedroom cabin is located in the mountains of Colorado, just a short drive from the nearest ski resort. The cabin features a fully equipped kitchen, a wood-burning fireplace, and a private deck with views of the surrounding mountains. It is perfect for families or groups of friends looking for a peaceful and scenic retreat.",
+      "price": 150,
+      "maxGuests": 4,
+      "location": "Colorado, United States",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=6&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=6&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=6&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=6&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=6&image=5"
+      ],
+      "rating": 4.6,
+      "reviews": 60,
+      "host": {
+        "name": "Sarah",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": false
+    },
+    {
+      "id": "6",
+      "name": "Luxury Villa in Santorini",
+      "description": "This luxurious three-bedroom villa is located on the cliffs of Santorini, with breathtaking views of the Aegean Sea. The villa features a private pool, a spacious living room, and a terrace with stunning views of the sunset. It is perfect for families or groups of friends looking for an unforgettable vacation.",
+      "price": 400,
+      "maxGuests": 6,
+      "location": "Santorini, Greece",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=7&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=7&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=7&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=7&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=7&image=5"
+      ],
+      "rating": 4.9,
+      "reviews": 30,
+      "host": {
+        "name": "Nikos",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": true
+    },
+    {
+      "id": "7",
+      "name": "Modern Loft in New York City",
+      "description": "This stylish one-bedroom loft is located in the heart of New York City, just a short walk from Times Square and Central Park. The loft features a modern kitchen, a spacious living room, and a private terrace with views of the city. It is perfect for couples or solo travelers looking for a comfortable and convenient base to explore New York City.",
+      "price": 200,
+      "maxGuests": 2,
+      "location": "New York City, United States",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=8&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=8&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=8&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=8&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=8&image=5"
+      ],
+      "rating": 4.8,
+      "reviews": 100,
+      "host": {
+        "name": "Alex",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": false
+    },
+    {
+      "id": "8",
+      "name": "Beachfront Bungalow in Thailand",
+      "description": "This charming two-bedroom bungalow is located on the beachfront in Thailand, just a short walk from the nearest town. The bungalow features a fully equipped kitchen, a cozy living room, and a private deck with views of the ocean. It is perfect for families or groups of friends looking for a relaxing getaway.",
+      "price": 120,
+      "maxGuests": 4,
+      "location": "Phuket, Thailand",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=9&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=9&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=9&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=9&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=9&image=5"
+      ],
+      "rating": 4.5,
+      "reviews": 40,
+      "host": {
+        "name": "Sara",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": true
+    },
+    {
+      "id": "9",
+      "name": "Mountain Chalet in Switzerland",
+      "description": "This cozy two-bedroom chalet is located in the mountains of Switzerland, just a short drive from the nearest ski resort. The chalet features a fully equipped kitchen, a wood-burning fireplace, and a private deck with views of the surrounding mountains. It is perfect for families or groups of friends looking for a peaceful and scenic retreat.",
+      "price": 180,
+      "maxGuests": 4,
+      "location": "Switzerland",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=10&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=10&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=10&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=10&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=10&image=5"
+      ],
+      "rating": 4.7,
+      "reviews": 70,
+      "host": {
+        "name": "Hans",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": false
+    },
+    {
+      "id": "10",
+      "name": "Luxury Villa in the Maldives",
+      "description": "This luxurious three-bedroom villa is located on a private island in the Maldives, with breathtaking views of the Indian Ocean. The villa features a private pool, a spacious living room, and a terrace with stunning views of the sunset. It is perfect for families or groups of friends looking for an unforgettable vacation.",
+      "price": 500,
+      "maxGuests": 6,
+      "location": "Maldives",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=11&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=11&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=11&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=11&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=11&image=5"
+      ],
+      "rating": 5,
+      "reviews": 10,
+      "host": {
+        "name": "Aisha",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": true
+    },
+    {
+      "id": "11",
+      "name": "Charming Cottage in Ireland",
+      "description": "This charming one-bedroom cottage is nestled in the picturesque countryside of Ireland, just a short drive from the nearest village. The cottage features a cozy fireplace, a fully equipped kitchen, and a private garden with views of the rolling hills. It is perfect for couples or solo travelers looking for a peaceful and romantic retreat.",
+      "price": 80,
+      "maxGuests": 2,
+      "location": "Ireland",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=12&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=12&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=12&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=12&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=12&image=5"
+      ],
+      "rating": 4.4,
+      "reviews": 90,
+      "host": {
+        "name": "Seamus",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": false
+    },
+    {
+      "id": "12",
+      "name": "Seaside Cottage in Cornwall",
+      "description": "This cozy two-bedroom cottage is located on the beautiful coastline of Cornwall, just steps away from the beach. The cottage features a fully equipped kitchen, a wood-burning fireplace, and a private patio with views of the sea. It is perfect for families or groups of friends looking for a relaxing seaside getaway.",
+      "price": 120,
+      "maxGuests": 4,
+      "location": "Cornwall, United Kingdom",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=13&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=13&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=13&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=13&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=13&image=5"
+      ],
+      "rating": 4.6,
+      "reviews": 70,
+      "host": {
+        "name": "Eleanor",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": true
+    },
+    {
+      "id": "13",
+      "name": "Rustic Cabin in the Alps",
+      "description": "This rustic two-bedroom cabin is nestled in the breathtaking Alps, surrounded by majestic mountains and pristine forests. The cabin features a cozy fireplace, a fully equipped kitchen, and a spacious deck with panoramic views of the surrounding landscape. It is perfect for nature lovers and outdoor enthusiasts.",
+      "price": 100,
+      "maxGuests": 4,
+      "location": "Switzerland",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=14&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=14&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=14&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=14&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=14&image=5"
+      ],
+      "rating": 4.7,
+      "reviews": 80,
+      "host": {
+        "name": "Heidi",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": false
+    },
+    {
+      "id": "14",
+      "name": "Mountain Lodge in Canada",
+      "description": "This cozy mountain lodge is located in the heart of the Canadian Rockies, surrounded by breathtaking natural beauty. The lodge features comfortable accommodations, a rustic atmosphere, and easy access to outdoor activities such as hiking, skiing, and fishing. It is perfect for nature lovers and outdoor enthusiasts.",
+      "price": 130,
+      "maxGuests": 6,
+      "location": "Alberta, Canada",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=15&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=15&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=15&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=15&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=15&image=5"
+      ],
+      "rating": 4.5,
+      "reviews": 60,
+      "host": {
+        "name": "Connor",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": true
+    },
+    {
+      "id": "15",
+      "name": "Modern Apartment in Berlin",
+      "description": "This modern one-bedroom apartment is located in the vibrant city of Berlin, just a short walk from trendy cafes, restaurants, and shops. The apartment features sleek design, modern amenities, and a private balcony with views of the city skyline. It is perfect for couples or solo travelers looking to explore the cultural and artistic attractions of Berlin.",
+      "price": 120,
+      "maxGuests": 2,
+      "location": "Berlin, Germany",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=16&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=16&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=16&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=16&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=16&image=5"
+      ],
+      "rating": 4.6,
+      "reviews": 70,
+      "host": {
+        "name": "Lena",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": false
+    },
+    {
+      "id": "16",
+      "name": "Seaside Villa in Greece",
+      "description": "This luxurious seaside villa is located on the beautiful island of Crete, with stunning views of the Mediterranean Sea. The villa features elegant design, spacious interiors, and a private pool overlooking the sea. It is perfect for families or groups of friends looking for a luxurious and relaxing vacation.",
+      "price": 300,
+      "maxGuests": 8,
+      "location": "Crete, Greece",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=17&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=17&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=17&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=17&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=17&image=5"
+      ],
+      "rating": 4.9,
+      "reviews": 40,
+      "host": {
+        "name": "Yannis",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": true
+    },
+    {
+      "id": "17",
+      "name": "Countryside Cottage in France",
+      "description": "This charming countryside cottage is nestled in the picturesque French countryside, surrounded by vineyards and rolling hills. The cottage features traditional French design, cozy interiors, and a private garden with views of the countryside. It is perfect for couples or families looking for a peaceful and romantic retreat.",
+      "price": 100,
+      "maxGuests": 4,
+      "location": "Provence, France",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=18&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=18&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=18&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=18&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=18&image=5"
+      ],
+      "rating": 4.7,
+      "reviews": 90,
+      "host": {
+        "name": "Jacques",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": false
+    },
+    {
+      "id": "18",
+      "name": "Ski Chalet in Austria",
+      "description": "This cozy ski chalet is located in the Austrian Alps, just steps away from the ski slopes. The chalet features traditional alpine design, comfortable accommodations, and stunning views of the surrounding mountains. It is perfect for ski enthusiasts and outdoor adventurers.",
+      "price": 200,
+      "maxGuests": 6,
+      "location": "Tyrol, Austria",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=19&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=19&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=19&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=19&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=19&image=5"
+      ],
+      "rating": 4.8,
+      "reviews": 80,
+      "host": {
+        "name": "Klaus",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": true
+    },
+    {
+      "id": "19",
+      "name": "Riverside Cabin in Norway",
+      "description": "This cozy riverside cabin is located in the stunning Norwegian countryside, surrounded by forests and mountains. The cabin features traditional Scandinavian design, comfortable interiors, and a private deck overlooking the river. It is perfect for nature lovers and outdoor enthusiasts.",
+      "price": 150,
+      "maxGuests": 4,
+      "location": "Norway",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=20&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=20&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=20&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=20&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=20&image=5"
+      ],
+      "rating": 4.6,
+      "reviews": 100,
+      "host": {
+        "name": "Lars",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": false
+    },
+    {
+      "id": "20",
+      "name": "Hillside Villa in Spain",
+      "description": "This hillside villa is located on the beautiful island of Mallorca, with stunning views of the Mediterranean Sea. The villa features modern design, luxurious amenities, and a private pool overlooking the sea. It is perfect for families or groups of friends looking for a luxurious and relaxing vacation.",
+      "price": 350,
+      "maxGuests": 8,
+      "location": "Mallorca, Spain",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=21&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=21&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=21&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=21&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=21&image=5"
+      ],
+      "rating": 4.9,
+      "reviews": 50,
+      "host": {
+        "name": "Juan",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": true
+    }
+  ]
+}
