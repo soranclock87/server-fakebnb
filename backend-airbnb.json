@@ -20,7 +20,7 @@
         "name": "Emily",
         "imageUrl": "https://source.unsplash.com/300x300/?user"
       },
-      "favorite": false
+      "favorite": true
     },
     {
       "id": "2",
@@ -42,7 +42,7 @@
         "name": "John",
         "imageUrl": "https://source.unsplash.com/300x300/?user"
       },
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "3",
@@ -439,6 +439,28 @@
         "imageUrl": "https://source.unsplash.com/300x300/?user"
       },
       "favorite": true
+    },
+    {
+      "id": "ac7a",
+      "name": "Albolote Apartment",
+      "description": "is a new apartment in the North of Granada",
+      "price": "100",
+      "maxGuests": "12",
+      "location": "Albolote, Granada",
+      "imageUrls": [
+        "https://source.unsplash.com/300x300/?apartment&id=21&image=1",
+        "https://source.unsplash.com/300x300/?apartment&id=21&image=2",
+        "https://source.unsplash.com/300x300/?apartment&id=21&image=3",
+        "https://source.unsplash.com/300x300/?apartment&id=21&image=4",
+        "https://source.unsplash.com/300x300/?apartment&id=21&image=5"
+      ],
+      "rating": 0,
+      "reviews": 0,
+      "host": {
+        "name": "Juande",
+        "imageUrl": "https://source.unsplash.com/300x300/?user"
+      },
+      "favorite": false
     }
   ]
 }
