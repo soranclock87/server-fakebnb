@@ -1,6 +1,6 @@
 {
   "name": "server-fakebnb",
-  "lockfileVersion": 3,
+  "version": 3,
   "requires": true,
   "packages": {}
 }
