@@ -2,8 +2,5 @@
   "name": "server-fakebnb",
   "lockfileVersion": 3,
   "requires": true,
-  "scripts": {
-    "start": "node backend-airbnb.json"
-  },
   "packages": {}
 }
