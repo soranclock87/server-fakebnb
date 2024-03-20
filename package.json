@@ -1,6 +1,19 @@
 {
   "name": "server-fakebnb",
-  "version": 3,
-  "requires": true,
-  "packages": {}
+  "version": "1.0.0",
+  "description": "To mount the server we need to run in our terminal:",
+  "main": "backend-airbnb.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soranclock87/server-fakebnb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soranclock87/server-fakebnb/issues"
+  },
+  "homepage": "https://github.com/soranclock87/server-fakebnb#readme"
 }
